@@ -1,8 +1,8 @@
 # MarcPerezLleixa
 # 👋 Hi, I'm Marc Pérez Lleixà  
-### Data Analyst | Python · SQL · Power BI · Big Data & Machine Learning
+### Data Scientist | Python · SQL · Power BI · Big Data & Machine Learning
 
-I'm a Data Analyst specialized in transforming complex datasets into clear, actionable insights.  
+I'm a Data Scientist specialized in transforming complex datasets into clear, actionable insights.  
 Graduate in **Digital Technology & Multimedia (UPV)** and currently completing a **Master's in Data Science, Big Data & Business Analytics (UCM)**.
 
 I enjoy solving problems with data, building analytical models, and creating dashboards that help companies make better decisions.
