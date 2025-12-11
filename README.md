@@ -60,7 +60,7 @@ I enjoy solving problems with data, building analytical models, and creating das
 ---
 
 ## 🤝 Let's connect!
-- **LinkedIn:** *Add your link*  
+- **LinkedIn:** https://www.linkedin.com/in/marc-p-51b867297/
 - **Email:** marcperezlleixa@gmail.com  
 - **Portfolio (coming soon)**  
 
